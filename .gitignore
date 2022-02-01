@@ -6,3 +6,4 @@ spot-price-exporter
 bin
 vendor
 .env
+dist/*
